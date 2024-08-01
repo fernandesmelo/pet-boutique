@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.container {
+    padding: 120px 80px;
+}
+
+.banner-topo {
+    background-image: url("/assets/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.container-logo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.nome-pet-shop {
+    font-size: 35px;
+    margin: 35px 0 5px 0;
+}
+
+.nome-pet-shop img {
+    width: 30px;
+    margin-right: 5px;
+}
