@@ -10,8 +10,8 @@
     padding: 120px 80px;
 }
 
-.banner-topo {
-    background-image: url("/assets/banner-topo.jpg");
+.secao-banner {
+    background-image: url("../assets/banner-topo.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -30,3 +30,48 @@
     width: 30px;
     margin-right: 5px;
 }
+
+.frase-slogan {
+    font-size: 14px;
+    text-align: center;
+}
+
+.container-fale-conosco {
+    max-width: 1024px;
+    border-radius: 5px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.titulo-container-fale-conosco {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.paragrafo-container-fale-conosco {
+    width: 200px;
+    padding: 10px 25px 10px 25px;
+    margin: 0 auto 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.link-paragrafo-container-fale-conosco {
+    color: #ffff;
+    width: 20px;
+}
+
+.link-paragrafo-container-fale-conosco img {
+    width: 20px;
+    margin-left: 6px;
+}
+
+
+
