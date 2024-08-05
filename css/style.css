@@ -11,7 +11,7 @@
 }
 
 .secao-banner {
-    background-image: url("../assets/banner-topo.jpg");
+    background-image: url("../images/banner-topo.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -71,6 +71,40 @@
 .link-paragrafo-container-fale-conosco img {
     width: 20px;
     margin-left: 6px;
+}
+
+.subtitulo-secao-servicos {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.container-lista-secao-servicos {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+
+.itens-lista-secao-servicos {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.container-imagens-secao-servicos {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+.imagens-secao-servicos {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
 }
 
 
