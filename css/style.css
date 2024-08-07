@@ -81,7 +81,7 @@
 }
 
 .container-lista-secao-servicos {
-    max-width: 800px;
+    max-width: 740px;
     margin: 0 auto 50px auto;
     color: #3c184e;
 }
@@ -107,5 +107,30 @@ span {
     box-shadow: 3px 6px 10px 6px #0000005c;
 }
 
+.faixas {
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.paragrafo-faixas {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.container-links-faixas {
+    text-align: center;
+}
+
+.links-faixas {
+    margin: 0 20px;
+}
+
+.icones-redes-sociais-faixas {
+    width: 50px;
+    height: 50px;
+}
 
 
