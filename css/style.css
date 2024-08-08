@@ -10,6 +10,13 @@
     padding: 120px 80px;
 }
 
+h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 40px 0;
+}
+
 .secao-banner {
     background-image: url("../images/banner-topo.jpg");
     background-position: center;
@@ -73,13 +80,6 @@
     margin-left: 6px;
 }
 
-.subtitulo-secao-servicos {
-    font-size: 36px;
-    color: #3c184e;
-    text-align: center;
-    margin: 0 0 45px 0;
-}
-
 .container-lista-secao-servicos {
     max-width: 740px;
     margin: 0 auto 50px auto;
@@ -133,4 +133,13 @@ span {
     height: 50px;
 }
 
+.container-imagens-secao-marcas {
+    text-align: center;
+}
+
+.imagens-secao-marcas {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px 0 15px;
+}
 
