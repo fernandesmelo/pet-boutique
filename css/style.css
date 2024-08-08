@@ -143,3 +143,29 @@ span {
     margin: 0 15px 0 15px;
 }
 
+.secao-onde-estamos {
+    text-align: center;
+}
+.paragrafo-secao-onde-estamos {
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.mapa-secao-onde-estamos {
+    width: 800px;
+    height: 450px;
+}
+
+.rodape {
+    padding: 10px 0 10px 0;
+    background-color: #3c184e;
+}
+
+.paragrafo-rodape {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
