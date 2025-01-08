@@ -2,9 +2,9 @@
 
 Desenvolvi este projeto como parte da Missão 07 da carreira Front-end I no curso de Programador Full Stack na DevMedia. A missão abordou os tópicos "CSS: Background - Preenchendo o fundo de um elemento" e "CSS: Modificando elementos no HTML".  
 
-O projeto consiste em um site para um [Pet Shop](https://fernandesmelo.github.io/imobiliaria-santos/), aplicando os conceitos aprendidos para criar um design funcional e atrativo.
+O projeto consiste em um site para um [Pet Shop](https://fernandesmelo.github.io/pet-boutique/), aplicando os conceitos aprendidos para criar um design funcional e atrativo.
 
-[screen-capture.webm](https://github.com/user-attachments/assets/a9ffe472-06f6-48f9-935f-9e3844a79022)
+[screen-capture (1).webm](https://github.com/user-attachments/assets/e65882ee-ae6c-4736-b062-41bd23eb2053)
 
 ## ⚙️ Executando os Testes
 Próximos passos...
