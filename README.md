@@ -6,9 +6,6 @@ O projeto consiste em um site para um [Pet Shop](https://fernandesmelo.github.io
 
 [screen-capture (1).webm](https://github.com/user-attachments/assets/e65882ee-ae6c-4736-b062-41bd23eb2053)
 
-## ⚙️ Executando os Testes
-Próximos passos...
-
 ## 🛠️ Construído com
 
 <div style="display: inline-block"><br/>
@@ -86,3 +83,6 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu computador:
 ---
 
 Agora você está pronto para explorar e personalizar este projeto! 🎉
+
+## ⚙️ Executando os Testes
+Próximos passos...
